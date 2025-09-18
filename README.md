@@ -2,4 +2,4 @@
 ## Grado y grupo: 3-D 
 ## Especialidad: Programacion 
 ## Correo: 24308060610056@cetis61.edu.mx
-![foto](https://github.com/user-attachments/assets/f5eebbf4-8a5b-426a-81b9-77654e88bd01)
+<img width="150" height="190" alt="image" src="https://github.com/user-attachments/assets/743b4366-b2d3-4b17-a039-7cfb7be7f912" />
